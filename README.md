@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Dorelys 
-###  A passionate and dedicated student at [HackYourFuture](https://www.hackyourfuture.net/)
-💻 I am on a journey to become a Full Stack Developer 🎯
+# Hi there! 👋 I'm Dorelys. 
+###  A passionate and dedicated student at [HackYourFuture](https://www.hackyourfuture.net/).
+💻 I am on a journey to become a Full Stack Developer. 🎯
 
  
  
